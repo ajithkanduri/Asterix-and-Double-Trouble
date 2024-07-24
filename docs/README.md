@@ -1,12 +1,3 @@
-## Team Details:
-
-1. Name and email: Ajith Krishna Kanduri(akanduri@umass.edu).
-2. Team member name and email: Spoorthi Siri Malladi (smalladi@umass.edu)
-3. Number of late days used for this lab: 1
-4. Number of late days used so far including this lab: Ajith(2), Spoorthi(1).
-
-Part 1,2,3 are done by Ajith 
-Part 4,5 are done by Spoorthi
 
 ## Steps to run:
 
